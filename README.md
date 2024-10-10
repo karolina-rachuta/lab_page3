@@ -7,6 +7,7 @@ Demo for lab group.
 - RWD
 
 ## Demo
+https://lab-website3-381b7.web.app/
 ![screenshot](./src/assets/demo/desktop1.png)
 ![screenshot](./src/assets/demo/desktop2.png)
 
