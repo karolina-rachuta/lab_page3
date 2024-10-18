@@ -16,7 +16,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        padding: toRem(10px);
+        padding-bottom: toRem(10px);
+        padding-top: toRem(20px);
     }
 
     &__box {
