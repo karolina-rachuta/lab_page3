@@ -32,14 +32,10 @@ body::before {
 .container {
     width: 100%;
     max-width: toRem(2000px);
-    // height: 100%;
-    // min-height: 100vh;
     margin: 0 auto;
     background-color: $bg-color;
     display: flex;
     flex-direction: column;
-    // justify-content: center;
-    // align-items: center;
 
     @media only screen and (min-width: toRem(2000px)) {
         border-right: 1px solid lightgray;
